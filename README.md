@@ -8,6 +8,9 @@ exploring the environment, interacting with NPCs and scenes and collecting
 items.
 
 ## Screenshots
+![screenshot](https://github.com/VladLazar/Meowsterious/blob/master/screenshots/s1.jpg)
+![screenshot](https://github.com/VladLazar/Meowsterious/blob/master/screenshots/s2.jpg)
+![screenshot](https://github.com/VladLazar/Meowsterious/blob/master/screenshots/s3.jpg)
 
 ## Running the game
 You probably will not be able to play the game if you do not own the same
